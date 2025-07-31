@@ -155,6 +155,6 @@ File System 정리글
 </details>
 
 <details>
-<summary><b>RAID 1을 개선한 방법 대해 설명하세요</b></summary>
+<summary><b>RAID 2을 개선한 방법 대해 설명하세요</b></summary>
 
 </details>
