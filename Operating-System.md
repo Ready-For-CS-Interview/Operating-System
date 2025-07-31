@@ -12,7 +12,7 @@
 
 <details>
 <summary>1-1. Process와 Thread</summary>
-<a href="https://velog.io/@jooon/%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0-Array-Linked-List" target="_blank">
+<a href="https://velog.io/@jooon/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-Process-Thread" target="_blank">
 Process와 Thread 정리글
 </a>
 </details>
@@ -20,7 +20,7 @@ Process와 Thread 정리글
 
 <details>
 <summary>1-2. Process 주소 공간</summary>
-<a href="https://velog.io/@jooon/%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0-Array-Linked-List" target="_blank">
+<a href="https://velog.io/@jooon/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-Process-%EC%A3%BC%EC%86%8C-%EA%B3%B5%EA%B0%84" target="_blank">
 Process 주소 공간 정리글
 </a>
 </details>
