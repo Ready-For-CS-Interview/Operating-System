@@ -43,7 +43,7 @@ System Call 정리글
 
 <details>
 <summary>1-4. PCB와 Context Switch</summary>
-<a href="https://velog.io/@jooon/%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0-Array-Linked-List" target="_blank">
+<a href="https://velog.io/@jywon/PCB와-컨텍스트-스위치" target="_blank">
 PCB와 Context Switch 정리글
 </a>
 </details>
@@ -51,7 +51,7 @@ PCB와 Context Switch 정리글
 
 <details>
 <summary>1-5. IPC</summary>
-<a href="https://velog.io/@geooeg/%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-Parity-bit" target="_blank">
+<a href="https://velog.io/@jywon/IPC" target="_blank">
 IPC 정리글
 </a>
 </details>
